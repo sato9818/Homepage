@@ -17,7 +17,7 @@ const Home: NextPage = () => {
         </h1>
 
         <h2 className='text-center text-xl'>
-          software engineer @ ???
+          software engineer @ LINE Corp
         </h2>
 
         <div>
